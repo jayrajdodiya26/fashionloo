@@ -1,6 +1,13 @@
 # Fashion Loo 
 
-![image](https://https://i.postimg.cc/DzTWP72L/Screenshot-20221220-083853.png)
+![Screenshot_20221220_083853](https://user-images.githubusercontent.com/40134784/208573450-5eeda81b-aa80-40ae-8fd6-f9710e05f8ca.png)
+![Screenshot_20221220_084041](https://user-images.githubusercontent.com/40134784/208573467-a1978751-e197-44f4-8aca-c8ba1578d833.png)
+![Screenshot_20221220_084134](https://user-images.githubusercontent.com/40134784/208573475-8d9d8aa9-f1b0-41b6-8fa1-19d4da645513.png)
+![Screenshot_20221220_084210](https://user-images.githubusercontent.com/40134784/208573478-322b9888-953d-43ea-8c02-b76c0284d355.png)
+![Screenshot_20221220_084304](https://user-images.githubusercontent.com/40134784/208573483-ff7cdc07-636e-403a-9683-e0088d47a172.png)
+![Screenshot_20221220_084340](https://user-images.githubusercontent.com/40134784/208573488-0318f4ff-b0fe-4227-a33b-11e7f342717d.png)
+![Screenshot_20221220_084416](https://user-images.githubusercontent.com/40134784/208573490-2c9e497b-a0f5-420b-bfec-833e479e8ec1.png)
+![Screenshot_20221220_084451](https://user-images.githubusercontent.com/40134784/208573491-6faaf1c3-2979-4242-9105-01c5d6c45c5b.png)
 
 
 # Getting Started with Create React App
